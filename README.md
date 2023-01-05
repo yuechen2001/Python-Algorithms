@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A collection of algorithms and games that I have made using Python and the Pygame libraries 
+A collection of algorithms and games that I have made using Python and the Pygame library.
 
 ### Built With
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
