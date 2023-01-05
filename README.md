@@ -1,5 +1,8 @@
 <div id="readme-top"></div>
 
+## Python Collection 
+<img width = "600" height = "360" src = "https://user-images.githubusercontent.com/64315146/210742740-a9ccf94c-b4e0-4825-a326-cc213019611d.jpg" />
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
